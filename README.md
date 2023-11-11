@@ -1,4 +1,4 @@
-# Khetsus Python Password Manager
+# Jesters Password Manager
 
 This is a simple command-line password manager implemented in Python. It allows you to securely store and manage your passwords for various websites and accounts. The passwords are encrypted using Blowfish encryption and can only be decrypted with your secret key.
 
@@ -17,7 +17,7 @@ This is a simple command-line password manager implemented in Python. It allows 
 1. Clone the repository to your local machine:
 
    ```
-   git clone https://github.com/your-username/python-password-manager.git
+   git clone https://github.com/J3ST3RPY/Jesters_Password_Manager.git
    ```
 
 2. Install the required dependencies:
